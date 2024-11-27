@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/0ecff48d-a6b3-4553-a51d-52382748bd0f
 
 
 >[!Note]
->利用したなどの感想やコメント、ご要望などございましたらギークフジワラのXまでお願いいたします！
+>利用したなどの感想やコメント、ご要望などございましたら[ギークフジワラのX](https://x.com/geekfujiwara/status/1861677033862152679)までお願いいたします！
 
 
 ## 前提条件
