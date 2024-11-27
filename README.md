@@ -44,6 +44,10 @@ https://github.com/user-attachments/assets/0ecff48d-a6b3-4553-a51d-52382748bd0f
 
 ![image](https://github.com/user-attachments/assets/417c86ad-56a2-41cb-ad01-aba64b831ba9)
 
+すべてのカスタマイズを公開してください。
+
+その後に利用することができます。
+
 以上
 
 
