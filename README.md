@@ -49,6 +49,7 @@ https://github.com/user-attachments/assets/0ecff48d-a6b3-4553-a51d-52382748bd0f
 その後に利用することができます。
 
 ## 読み取り項目の追加方法
+こちらでは、他の項目を読み取りしたくなった際のカスタマイズ方法についてご紹介します。
 
 以下のような項目は事前に定義しています。
 
@@ -78,9 +79,9 @@ https://github.com/user-attachments/assets/0ecff48d-a6b3-4553-a51d-52382748bd0f
 }
 ```
 
-読み取りしたい追加項目が発生しても以下のような手順で項目を追加することができます。
+上記に読み取り項目がなく項目を追加したい場合は、以下の手順でカスタマイズできます。
 
-![image](https://github.com/user-attachments/assets/bc5e9dcb-2410-4540-a550-bca7c17574c4)
+![image](https://github.com/user-attachments/assets/ac74c24e-9553-4865-92e6-b07f04ddc7f6)
 
 ### Step 1: Dataverse
 テーブルから「処理されたファイル」を編集します。
