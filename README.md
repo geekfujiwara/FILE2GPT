@@ -112,29 +112,29 @@ JSONの出力形式に項目を追加します。
 > 
 > ```
 > {
-  "Document_Type": "レシート",
-  "Company_Name": "うどん製麺",
-  "Store_Name": "横浜店",
-  "Invoice_Date": "2018-07-04",
-  "Total_Price": 7279,
-  "Currency": "JPY or USD",
-  "Total_Gas_Amount": 51.99,
-  "Payment_Method": "プリカ or 現金 or クレジット",
-  "Document_Number": "INV-11100",
-  "Payment_Due_Date": "請求日翌月末",
-  "Vendor_Name": "日本マイクロソフト株式会社",
-  "Vendor_Contact_Name": "鈴木太郎",
-  "Vendor_Contact_Email": "example@microsoft.com",
-  "Vendor_Contact_Phone": "03-4444-3333",
-  "Vendor_Address": "東京都港区海岸1-1-1",
-  "Contract_Date": "2018-07-04",
-  "Contract_Duration": "3年間",
-  "Contract_Project_Name": "ハムスタープロジェクト",
-  "Production_Number": "",
-  "Lot_Number": "",
-  **"Additional_Key": "",**
-  "Product_Name": ""
-}
+>  "Document_Type": "レシート",
+>  "Company_Name": "うどん製麺",
+>  "Store_Name": "横浜店",
+>  "Invoice_Date": "2018-07-04",
+>  "Total_Price": 7279,
+>  "Currency": "JPY or USD",
+>  "Total_Gas_Amount": 51.99,
+>  "Payment_Method": "プリカ or 現金 or クレジット",
+>  "Document_Number": "INV-11100",
+>  "Payment_Due_Date": "請求日翌月末",
+>  "Vendor_Name": "日本マイクロソフト株式会社",
+>  "Vendor_Contact_Name": "鈴木太郎",
+>  "Vendor_Contact_Email": "example@microsoft.com",
+>  "Vendor_Contact_Phone": "03-4444-3333",
+>  "Vendor_Address": "東京都港区海岸1-1-1",
+>  "Contract_Date": "2018-07-04",
+>  "Contract_Duration": "3年間",
+>  "Contract_Project_Name": "ハムスタープロジェクト",
+>  "Production_Number": "",
+>  "Lot_Number": "",
+>  **"Additional_Key": "",**
+>  "Product_Name": ""
+>}
 > ```
 > 
 
