@@ -132,7 +132,7 @@ JSONの出力形式に項目を追加します。
 >  "Contract_Project_Name": "ハムスタープロジェクト",
 >  "Production_Number": "",
 >  "Lot_Number": "",
->  **"Additional_Key": "",**
+>  "Additional_Key": "",
 >  "Product_Name": ""
 >}
 > ```
