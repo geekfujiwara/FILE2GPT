@@ -51,6 +51,7 @@ https://github.com/user-attachments/assets/0ecff48d-a6b3-4553-a51d-52382748bd0f
 ## 読み取り項目の追加方法
 
 以下のような項目は事前に定義しています。
+
 ```
 {
   "Document_Type": "レシート",
