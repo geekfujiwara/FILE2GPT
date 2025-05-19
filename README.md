@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/0ecff48d-a6b3-4553-a51d-52382748bd0f
 ![image](https://github.com/user-attachments/assets/d2352ccd-96d5-44b6-bbe2-3fd82a9fd5ee)
 
 ## インポート方法
-ソリューションは[リリース](https://github.com/geekfujiwara/FILE2GPT/releases/tag/FILE2GPT)から取得できます。
+ソリューションは[リリース](https://github.com/geekfujiwara/FILE2GPT/releases/)から取得できます。
 
 入手したソリューションはPower Apps 作成者ポータルのソリューション画面からインポートを選択して、Zip形式のままアップロード、インポートを実行します。
 
